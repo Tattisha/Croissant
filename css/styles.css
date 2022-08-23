@@ -1,0 +1,28 @@
+body {
+  background: #f8e8a6;
+  display: block;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  border: 1px solid white;
+  border-radius: 8px;
+  display: block;
+  max-width: 100%;
+  margin: 20px auto;
+}
+
+footer {
+  color: red;
+  text-align: center;
+  display: block;
+}
+
+footer a {
+  color: green;
+  margin: 0 10px;
+}
